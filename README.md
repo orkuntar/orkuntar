@@ -24,15 +24,15 @@
 
   ### 📈 GitHub Stats
   
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=orkuntar&show_icons=true&theme=radical" />
   
   ### 🏆 GitHub Profile Trophy
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=orkuntar&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
   ### 📊 GitHub Activity Graph
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=orkuntar&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   ### 👨‍💻 Skills Animation
   
@@ -42,7 +42,7 @@
 </div>
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=orkuntar&color=brightgreen)
 
 <!-- Social Links with Animation -->
 <div align="center">
