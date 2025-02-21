@@ -4,8 +4,11 @@
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Database+Expert;Windows+Server+Administrator)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orkuntar&theme=tokyonight" />
 </div>
+
+I'm a passionate Full-Stack Developer with expertise in building end-to-end enterprise solutions, from complex SQL reporting systems to modern web applications.
+
 
 ### 🛠️ Technologies & Tools
 
@@ -20,15 +23,33 @@
 
 </div>
 
-<div align="center">
+**Frontend Development**
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-  ### 📈 GitHub Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=orkuntar&show_icons=true&theme=radical" />
-  
-  ### 🏆 GitHub Profile Trophy
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=orkuntar&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+**Backend Development**
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+- ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
+
+**Infrastructure & Tools**
+- ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white&style=flat)
+- ![SSMS](https://img.shields.io/badge/-SQL_Server_Management_Studio-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
+### 🎯 Expertise
+
+- 📊 Designing and optimizing complex SQL queries for enterprise reporting
+- 🔧 Building scalable REST APIs with Node.js and Express
+- 🎨 Crafting responsive web applications using React and TypeScript
+- 🛠️ Database architecture and performance optimization
+- 🖥️ Windows Server administration and deployment
+- 📱 UI/UX design implementation with Figma and Tailwind CSS
+
+
+<div align="center">
   
   ### 📊 GitHub Activity Graph
   
@@ -41,15 +62,12 @@
   </p>
 </div>
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=orkuntar&color=brightgreen)
-
 <!-- Social Links with Animation -->
 <div align="center">
-  <a href="your-linkedin-url">
+  <a href="https://www.linkedin.com/in/orkuntarhan/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:orkuntar@gmail.com">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
   </a>
 </div>
