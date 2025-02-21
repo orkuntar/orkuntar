@@ -3,8 +3,6 @@
   # Hi there, I'm [Orkun Tarhan] 👋
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Database+Expert;Windows+Server+Administrator)
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orkuntar&theme=tokyonight" />
 </div>
 
 I'm a passionate Full-Stack Developer with expertise in building end-to-end enterprise solutions, from complex SQL reporting systems to modern web applications.
