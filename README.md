@@ -27,10 +27,6 @@ I'm a passionate Full-Stack Developer with expertise in building end-to-end ente
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-**Backend Development**
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-- ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
 
 **Infrastructure & Tools**
 - ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white&style=flat)
@@ -40,7 +36,6 @@ I'm a passionate Full-Stack Developer with expertise in building end-to-end ente
 ### 🎯 Expertise
 
 - 📊 Designing and optimizing complex SQL queries for enterprise reporting
-- 🔧 Building scalable REST APIs with Node.js and Express
 - 🎨 Crafting responsive web applications using React and TypeScript
 - 🛠️ Database architecture and performance optimization
 - 🖥️ Windows Server administration and deployment
