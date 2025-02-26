@@ -2,7 +2,7 @@
   
   # Hi there, I'm Orkun Tarhan 👋
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;System+Analyst;Database+Developer;Windows+Server+Administrator;)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Front-End+Developer;System+Analyst;Database+Developer;Windows+Server+Administrator;)
 </div>
 
 I'm a passionate Full-Stack Developer with expertise in building end-to-end enterprise solutions, from complex SQL reporting systems to modern web applications.
@@ -16,8 +16,8 @@ I'm a passionate Full-Stack Developer with expertise in building end-to-end ente
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
+[![](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#)
 
 </div>
 
